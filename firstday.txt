@@ -1,1 +1,9 @@
-
+1. Today i learnt what is Java , why Java?
+2. Who invented Java?
+3. Prerequisits to lean Java?
+4. Java history and features?
+5. Java Abbreviation(not there)?
+6. Java versions and Released date?
+7. Definiyion of Java?
+8. Where Java is used?
+9. When should we use Java?
