@@ -1,4 +1,5 @@
-1. Today i learnt what is Java , why Java?
+Today i learnt(25/12/2021)
+1. What is Java , why Java?
 2. Who invented Java?
 3. Prerequisits to lean Java?
 4. Java history and features?
