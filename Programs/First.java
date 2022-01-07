@@ -4,7 +4,7 @@
 class First {
    public static void main (String[] args) {
    
-      System.out.println("Lakshya World!")
+      System.out.println("Lakshya World!");
    }
 }
 //Step#3 Save the above program with the name "First.java" in "D:\01CJ\01JB"(you must create those two folders
