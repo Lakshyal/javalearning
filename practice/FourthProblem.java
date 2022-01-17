@@ -53,8 +53,12 @@ public class Tester {
                 int costOfNonVegPlate = 15;
                 totalCost +=quantity *costOfNonVegPlate;
                  }
+        else {
+            System.out.println("Total bill is -1:");
+        }
         
-        if (d>0&&d<=3){
+       if(foodType== 'V' || foodType=='N' ) {
+           if (d>0&&d<=3){
            deliveryCharge=0;
         }
         else if (d>3&&d<=6){
@@ -66,8 +70,8 @@ public class Tester {
         System.out.println("You TotalBill is:");
        totalBill= totalCost+deliveryCharge;
         System.out.println(totalBill);
-        
-        }
+           }
+       }
 }
  //It's my first attempt 
  
