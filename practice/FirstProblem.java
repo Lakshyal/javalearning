@@ -8,19 +8,17 @@ Sample Input        Expected Output
 */
 //My First Tryout----
 import java.util.Scanner;
-class FirstProblem {
+class Tester {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Sample Input");
 		int a = sc.nextInt();
 		int b=2, sum=1;
-        int i;
-        System.out.println("Sample Output"); 
-		for (i=1 ;i<=a ;i++){
-           System.out.print(sum+","); 
-	       sum=sum*b;   
+       System.out.println("Sample Output");
+         System.out.print(sum);
+		for (int i=1 ;i<=a ;i++){
+            sum=sum*b; 
+            System.out.print(","+sum);
 		} 
-       
-	} 
-	
+       } 
 }
